@@ -1,13 +1,15 @@
 <template>
     <div>
         <header>
-
+            <div>
+                <h2>Hello</h2>
+            </div>
         </header>
 
         <footer>
 
         </footer>
-        
+
         <div class="container mx-auto p-4">
             <slot />
         </div>
@@ -18,6 +20,4 @@
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
